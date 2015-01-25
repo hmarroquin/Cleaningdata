@@ -98,5 +98,5 @@ frequencyBodyGyroscopeJerkMagnitude-mean()|fBodyBodyGyroJerkMag-mean()
 frequencyBodyGyroscopeJerkMagnitude-std()|fBodyBodyGyroJerkMag-std()
 
 ##Links
-readme.md: https://github.com/hmarroquin/Cleaningdata/blob/master/README.md
-run_analysis.R: https://github.com/hmarroquin/Cleaningdata/blob/master/run_analysis.R
+1. readme.md: https://github.com/hmarroquin/Cleaningdata/blob/master/README.md
+2. run_analysis.R: https://github.com/hmarroquin/Cleaningdata/blob/master/run_analysis.R
