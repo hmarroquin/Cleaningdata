@@ -12,7 +12,7 @@ Please refer to the read me file (readme.md) and R code file (run_analysis.R) fo
 Variable Names | Descriptions
 ------------ | -------------
 activities| 6 levels. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS SITTING, STANDING, LAYING
-subjects| the subject who performed the activity, ranges from 1 to 30
+names| the subject who performed the activity, ranges from 1 to 30
 ...BodyAccelerometer-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body signals (X, Y or Z) from accelerometer for each subject and each activity
 ...GravityAccelerometer-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial Gravity signals (X, Y or Z) from accelerometer each subject and each activity
 ...BodyAccelerometerJerk-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body jerk signals (X, Y or Z) from accelerometer each subject and each activity
